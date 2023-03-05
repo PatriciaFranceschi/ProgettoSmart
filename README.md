@@ -1,3 +1,3 @@
 # ProgettoSmart
 
-Creazione di metodi di una smarttv.
+Creazione di metodi di una smarttv in java.
